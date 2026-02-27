@@ -1,6 +1,6 @@
 # 🩺 Explainable AI for Heart Disease Prediction
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://projectheartxai-ypojknjvxhajwicgxjct6m.streamlit.app)
 
 ## 📝 نبذة عن المشروع
 يواجه الذكاء الاصطناعي في القطاع الصحي تحدي "الصندوق الأسود"، حيث يصعب على الأطباء الثقة في تنبؤات لا تقدم تفسيراً منطقياً. هذا المشروع يكسر هذا الحاجز عبر تقديم نظام تنبؤ عالي الدقة ومدعوم بتقنيات **الذكاء الاصطناعي القابل للتفسير (XAI)**.
@@ -51,3 +51,4 @@
 
 
 ![SHAP Explanation](images/shap_waterfall.png)
+
